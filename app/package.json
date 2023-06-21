@@ -1,0 +1,20 @@
+{
+  "name": "docker2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nahir Rotela",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^3.4.0",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.7"
+  }
+}
+
